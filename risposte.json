@@ -1,0 +1,12 @@
+[
+    { "id": 1, "testo": "La mela è un frutto ricco di fibre e vitamine." },
+    { "id": 2, "testo": "Il gatto domestico è un animale indipendente e affettuoso." },
+    { "id": 3, "testo": "JavaScript permette di creare pagine web dinamiche." },
+    { "id": 4, "testo": "Il mare Mediterraneo è ricco di biodiversità." },
+    { "id": 5, "testo": "La Sicilia è famosa per la sua storia e la sua cucina." },
+    { "id": 6, "testo": "Bootstrap è un framework CSS per siti responsive." },
+    { "id": 7, "testo": "Il calcio è lo sport più seguito in Italia." },
+    { "id": 8, "testo": "La pizza margherita è un simbolo della cucina italiana." },
+    { "id": 9, "testo": "La tecnologia moderna permette comunicazioni rapidissime." },
+    { "id": 10, "testo": "Il sole è la principale fonte di energia per la Terra." }
+]
